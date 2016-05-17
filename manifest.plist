@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://120.24.193.219/Uploads/ios/ic_launcher.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.24.193.219/Uploads/ios/ic_launcher.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
